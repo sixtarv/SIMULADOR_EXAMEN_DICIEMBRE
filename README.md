@@ -15,4 +15,4 @@
    
    ### Presentaciones sobre Protocolo de Emergencia y Evacuación.
    [[Presentaciones](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
-   [(https://docs.google.com/spreadsheets/d/1kFSusV8BAUEjF4GPBjSMdeGH0nMlOiOPfavr7d-50Ds/edit?usp=sharing)]
+   [(https://docs.google.com/spreadsheets/d/1kFSusV8BAUEjF4GPBjSMdeGH0nMlOiOPfavr7d-50Ds/edit?gid=0#gid=0)]
